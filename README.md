@@ -6,7 +6,7 @@
 - 🤘 Hi, I'm **@YannBenet**
 - 🌐 I'm currently working on **web development**
 - 👉 I'm open for work opportunities
-- 👶 I have just graduated from web developer studies
+- 🎓 Graduate as web & web mobile developper
 - 🔥 I' continually learning **Javascript & SQL**
 - ✏️ I'm also passionate about drawing, painting & music
 - ![Linkedin](https://i.sstatic.net/gVE0j.png) Find me on [LinkedIn](https://www.linkedin.com/in/yannbenet/)
